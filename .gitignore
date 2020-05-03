@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProgramService.Api/bin/Debug/netcoreapp3.1
+/SchoolManagement.Core/obj
+/SchoolManagement.Core/bin/Debug/netcoreapp3.1
+/ProgramsService.Domain/obj
+/ProgramsService.Domain/bin/Debug/netcoreapp3.1
+/ProgramsService.Data/obj
+/ProgramsService.Data/bin/Debug/netcoreapp3.1
+/ProgramService.Api/ProgramService.Api.csproj.user
+/ProgramService.Api/obj
+/.vs/SchoolManagement
